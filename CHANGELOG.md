@@ -6,6 +6,7 @@ The format is based on [keep a changelog](http://keepachangelog.com/) and this p
 ## [Unreleased]
 ### Added
 - New storage list feature.
+- New storage partial update feature.
 - Ban users and create groups from within the Runtime environment.
 - New In-App Purchase validation feature. 
 
